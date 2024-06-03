@@ -1,6 +1,6 @@
 {
-    "name": "UnityBuild",
-    "short_name": "UnityBuild",
+    "name": "UNITY_TMA",
+    "short_name": "UNITY_TMA",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",

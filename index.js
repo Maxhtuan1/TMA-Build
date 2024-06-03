@@ -43,7 +43,7 @@ window.addEventListener("load", function () {
     codeUrl: buildUrl + "/UnityBuild.wasm",
     streamingAssetsUrl: "StreamingAssets",
     companyName: "DefaultCompany",
-    productName: "UnityBuild",
+    productName: "UNITY_TMA",
     productVersion: "0.0.6",
     showBanner: unityShowBanner,
   };

@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-UnityBuild-0.0.6";
+const cacheName = "DefaultCompany-UNITY_TMA-0.0.6";
 const contentToCache = [
     "Build/UnityBuild.loader.js",
     "Build/UnityBuild.framework.js",
