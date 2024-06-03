@@ -38,9 +38,9 @@ window.addEventListener("load", function () {
   var buildUrl = "Build";
   var loaderUrl = buildUrl + "/UnityBuild.loader.js";
   var config = {
-    dataUrl: buildUrl + "/UnityBuild.data",
-    frameworkUrl: buildUrl + "/UnityBuild.framework.js",
-    codeUrl: buildUrl + "/UnityBuild.wasm",
+    dataUrl: buildUrl + "/UnityBuild.data.unityweb",
+    frameworkUrl: buildUrl + "/UnityBuild.framework.js.unityweb",
+    codeUrl: buildUrl + "/UnityBuild.wasm.unityweb",
     streamingAssetsUrl: "StreamingAssets",
     companyName: "DefaultCompany",
     productName: "UNITY_TMA",
